@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887210531667",
+    "project_id": "semanticspace",
+    "storage_bucket": "semanticspace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887210531667:android:1db5dcf4f948bf25fe1fa6",
+        "android_client_info": {
+          "package_name": "com.cnytync.retinentia.v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887210531667-bu0tjoim2apq17jds5plm2vtkn845kdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB01AUNl0vy6asRmQi5wWvPGj00O49Ov1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887210531667-bu0tjoim2apq17jds5plm2vtkn845kdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Semantic Space</string>
+    <string name="books_title" translatable="false">Books and Documents</string>
+    <string name="categories_title" translatable="false">Categories</string>
+    <string name="feed_title" translatable="false">Feed</string>
+    <string name="graph_title" translatable="false">Graph</string>
+    <string name="memory_title" translatable="false">Memory</string>
+    <string name="search_title" translatable="false">Search</string>
+    <string name="study_title" translatable="false">Study</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="contents" translatable="false">Contents</string>
+    <string name="zoom" translatable="false">Zoom In</string>
+    <string name="prev_text" translatable="false">Previous Text</string>
+    <string name="next_text" translatable="false">Next Text</string>
+    <string name="loading" translatable="false">Loading...</string>
+
+
+</resources>

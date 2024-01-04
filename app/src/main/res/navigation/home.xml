@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_home"
+    app:startDestination="@id/menu_login">
+    <fragment
+        android:id="@+id/menu_login"
+        android:name="com.cnytync.retinentia.v2.fragment.LoginFragment"
+        android:label="Login"
+        tools:layout="@layout/fragment_login" />
+    <fragment
+        android:id="@+id/menu_register"
+        android:name="com.cnytync.retinentia.v2.fragment.RegisterFragment"
+        android:label="Register"
+        tools:layout="@layout/fragment_register" />
+</navigation>
